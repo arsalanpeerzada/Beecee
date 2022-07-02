@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450561010258",
+    "project_id": "beecee-d485b",
+    "storage_bucket": "beecee-d485b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450561010258:android:0073098411469ee83f0d8b",
+        "android_client_info": {
+          "package_name": "com.example.beecee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450561010258-k121sidm7jt260ng3851k3510r170mts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Ka4WzHUP4_KfKGZeFS4vIEUGBXk5a2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450561010258-k121sidm7jt260ng3851k3510r170mts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
